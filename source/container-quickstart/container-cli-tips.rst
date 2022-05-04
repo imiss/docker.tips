@@ -20,7 +20,7 @@ docker container 命令小技巧
 
 .. code-block:: bash
 
-    $ docker container rm cd3 269 34b 751
+    $ docker container stop cd3 269 34b 751
 
 
 方法2
